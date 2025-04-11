@@ -1,3 +1,2 @@
-Link do GitHub: https://github.com/seurepositorio
-Link do Streamlit: https://seuapp.streamlit.app
-Link do vídeo: https://youtu.be/seuvideo
+Link do GitHub: https://github.com/lucasantin/student-dropout-prediction
+Link do Streamlit: https://student-dropout-prediction-dhzz7rmwhdqs9w3qxywfg6.streamlit.app/
