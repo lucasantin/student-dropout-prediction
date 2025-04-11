@@ -1,0 +1,14 @@
+Acurácias em cada fold: [0.74152542 0.77966102 0.76977401 0.76977401 0.77652051]
+Média CV: 0.7674509944941226
+Acurácia treino: 1.00 | Acurácia teste: 0.77
+
+Classification Report:
+               precision    recall  f1-score   support
+
+  Desistente       0.83      0.75      0.79       284
+    Graduado       0.79      0.93      0.85       442
+ Matriculado       0.54      0.35      0.43       159
+
+    accuracy                           0.77       885
+   macro avg       0.72      0.68      0.69       885
+weighted avg       0.76      0.77      0.76       885
